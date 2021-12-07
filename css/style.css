@@ -1,7 +1,7 @@
 
 .video{
   position: absolute;
-  left: 0px;
+  left:0px;
   top: 0px;
 }
 
@@ -12,12 +12,12 @@
 }
 
 p{
-  font-family: 'Ubuntu', sans-serif;
+    font-family: 'Merriweather', serif;
   font-size: 20px;
 }
 
 h1{
-  font-family: 'Playfair Display', serif;
+    font-family: 'Merriweather', serif;
   font-size: 60px;
 }
 
@@ -100,7 +100,22 @@ background-color:violet;
 }
 
 .gameintro{
-  font-family: 'Nunito', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+.back{
+  position: absolute;
+  left:400px;
+  top: 650px;
+  width: 250px;
+  height: 5px;
+background-color: lightyellow;
+  border: 1px solid black;
+
+  padding-top: 8px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 55px;
 }
 
 .button{
