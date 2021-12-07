@@ -99,17 +99,21 @@ background-color:violet;
   padding-left: 50px;
 }
 
+.gameintro{
+  font-family: 'Nunito', sans-serif;
+}
+
 .button{
   position: absolute;
-  left: 500px;
+  left: 550px;
   top: 350px;
   width: 100px;
-  height: 50px;
+  height: 5px;
 background-color: gold;
   border: 1px solid black;
 
-  padding-top: 50px;
+  padding-top: 25px;
   padding-right: 50px;
   padding-bottom: 50px;
-  padding-left: 50px;
+  padding-left: 55px;
 }
