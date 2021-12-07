@@ -10,6 +10,6 @@ function setup() {
 }
 
 function draw() {
-  background();
+  background(249, 231, 159);
   image(img,0,0,windowWidth,windowHeight);
 }
